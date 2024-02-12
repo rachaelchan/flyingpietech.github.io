@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Privacy Policy"
-date:   2024-02-12 22:40:00 +0530
 ---
 
 **Privacy Policy**
