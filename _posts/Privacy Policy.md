@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Privacy Policy"
+date:   2024-02-12 22:40:00 +0530
+---
+
 **Privacy Policy**
 
 Flying Pie built the Keyboard Translator app as a Commercial app. This SERVICE is provided by Flying Pie and is intended for use as is.
